@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Languages  
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" />
+<img src="https://skillicons.dev/icons?i=php,js,html,css,bootstrap,java,react,python,laravel" />
 </p>
 
 ### 🧰 Tools  
@@ -42,8 +42,8 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaleb-Getachew-DD&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb-Getachew-DD&layout=compact&theme=tokyonight" />
+  
+  
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaleb-Getachew-DD&theme=tokyonight" />
+  
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/Kaleb-Getachew-DD/Kaleb-Getachew-DD/blob/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---
