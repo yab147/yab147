@@ -86,24 +86,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-
-<p>
-<a href="https://github.com/Kaleb-Getachew-DD">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
-## 👀 Visitor Counter  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaleb-Getachew-DD&color=blue" />
-</p>
-
----
-
 ## ⚡ Philosophy  
 
 > “I don’t just write code — I design systems that solve real problems.”
