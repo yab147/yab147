@@ -54,22 +54,30 @@
 
 ## 🛠️ Skills
 
-**Languages:**  
-JavaScript, Python, Java, C++
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
+</p>
 
-**Frontend:**  
-HTML, CSS, React, Bootstrap
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
 
-**Backend:**  
-Node.js, Express, PHP
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,Java,php" />
+</p>
 
-**Database:**  
-MongoDB, MySQL
+### 🛢️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-**Tools:**  
-Git, GitHub, VS Code
-
----
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 <!-- ================= STATS ================= -->
 
